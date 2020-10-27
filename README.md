@@ -1,5 +1,5 @@
 # Convolution-Neural-Network deeplearning.ai-Andrew-Ng-
-
+A online course offered by [deeplearning.ai](https://www.deeplearning.ai/). I would like to say thanks to Prof. [**Andrew Ng**](www.andrewng.org) and his colleagues for spreading knowledge to normal people and great courses sincerely.
 This repository contains all the solutions of the programming assignments. It also has some of the important papers which are referred during the course. :)
 
 **NOTE** : Use the solutions only for reference purpose 
