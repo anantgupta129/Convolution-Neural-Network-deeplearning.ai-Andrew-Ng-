@@ -4,7 +4,7 @@ This repository contains all the solutions of the programming assignments. It al
 
 **NOTE** : Use the solutions only for reference purpose 
 
-**Course 4: Convolutional Neural Networks**
+**Course 4 of 5 Courses: Convolutional Neural Networks**
 - **Learning Objectives** :
    1. Understand how to build a convolutional neural network, including recent variations such as residual networks, inception nets etc.
    2. Know how to apply convolutional networks to visual detection and recognition tasks.
