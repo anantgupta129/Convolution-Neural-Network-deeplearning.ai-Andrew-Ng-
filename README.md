@@ -6,10 +6,10 @@ This repository contains all the solutions of the programming assignments. It al
 
 **Course 4: Convolutional Neural Networks**
 - **Learning Objectives** :
-   1. Understand how to build a convolutional neural network, including recent variations such as residual networks.
+   1. Understand how to build a convolutional neural network, including recent variations such as residual networks, inception nets etc.
    2. Know how to apply convolutional networks to visual detection and recognition tasks.
    3. Know to use neural style transfer to generate art.
-   4. Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+   
 - **Programming Assignments**
   1. [Week 1 - Programming Assignment 1 - Convolution model Step by Step](https://github.com/anantgupta129/Convolution-Neural-Network-deeplearning.ai-Andrew-Ng-/blob/master/Week%201/Convolution_model_Ass01_Step_by_Step_v2a.ipynb)
   2. [Week 1 - Programming Assignment 2 - Convolution model Application](https://github.com/anantgupta129/Convolution-Neural-Network-deeplearning.ai-Andrew-Ng-/blob/master/Week%201/Convolution_model_Ass02_Application_v1a.ipynb)
