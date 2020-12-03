@@ -19,4 +19,4 @@ This repository contains all the solutions of the programming assignments. It al
   6. [Week 4 - Programming Assignment 6 - Face Recognition for Happy House](https://github.com/anantgupta129/Convolution-Neural-Network-deeplearning.ai-Andrew-Ng-/blob/master/Week%204/Face%20Recogination/Face_Recognition_v3a.ipynb)
   7. [Week 4 - Programming Assignment 7 - Art Generation with Neural Style transfer](https://github.com/anantgupta129/Convolution-Neural-Network-deeplearning.ai-Andrew-Ng-/blob/master/Week%204/Neural%20style%20transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
   
-  It also contains some additional codes and some output images
+  It also contains some additional codes and reading material
